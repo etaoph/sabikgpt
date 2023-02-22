@@ -1,4 +1,4 @@
-# Sabik GPT Desktop App
+# OpenAI Sabik GPT® Desktop Application
 
 Open source OpenAI Sabik GPT desktop app for mac, windows, and linux menubar using tauri & rust.
 
