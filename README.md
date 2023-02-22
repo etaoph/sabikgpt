@@ -4,12 +4,6 @@ Open source OpenAI Sabik GPT desktop app for mac, windows, and linux menubar usi
 
 ![sswinmac](ssmerge.png)
 
-# Downloads
-
-- [Windows](https://github.com/etaoph/sabikgpt-desktop/raw/master/releases/sabikgpt.msi) (2.7 MB)
-- [MacOS](https://github.com/etaoph/sabikgpt-desktop/raw/master/releases/sabikgpt.dmg) (2.1 MB)
-- [Linux .deb](https://github.com/etaoph/sabikgpt-desktop/raw/master/releases/sabikgpt_0.2.0_amd64.deb) (2.3 MB)
-- [Linux .rpm](https://github.com/etaoph/sabikgpt-desktop/raw/master/releases/sabikgpt-0.2.0-2.x86_64.rpm) (2.1 MB)
 
 ## FAQ
 
